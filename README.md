@@ -16,4 +16,4 @@ Por último, se procede a la realización de las consultas a través de pymongo 
 ## Resultados
 Los resultados son, por un lado, una tabla que recoge las localizaciones de las oficinas analizadas y el número de puntos de interés establecidos como condicionates que caen dentro de las distancias fijadas. Por otro, se presenta un mapa con la localización de las dos oficinas candidatas junto con los punto de interés cercanos.
 
-![alt text] (output/final_map.png "Mapa")
+!["Mapa](output/final_map.png)
